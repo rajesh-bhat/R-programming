@@ -1,3 +1,5 @@
+#by Rajesh Shreedhar Bhat
+
 rankall<- function(outcome,num)
 {
 	data <- read.csv("outcome-of-care-measures.csv")
